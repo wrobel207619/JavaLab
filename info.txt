@@ -1,1 +1,3 @@
 To jest repozytorium na zajêcia Zaawansowane zagadnienia programowania w Javie.
+
+Autor: Filip Wróbel
