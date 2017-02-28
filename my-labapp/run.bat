@@ -1,0 +1,1 @@
+java -cp target/my-labapp-1.0-SNAPSHOT.jar com.poli.labapp.App
