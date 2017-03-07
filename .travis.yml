@@ -1,0 +1,7 @@
+language: java
+env:
+    - PROJECT_0=my-labapp
+
+script:
+    cd $PROJECT_0
+    mvn test
